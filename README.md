@@ -7,4 +7,4 @@
 
 
 <a href="https://linkedin.com/in/wai-yan-min" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dtherhtun" width="22px" /></a>  
-<a href="https://twitter.com/th3lolipop" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="dtherhtun" width="22px" /></a> 
+<a href="https://twitter.com/_th3lolipop_" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="dtherhtun" width="22px" /></a> 
